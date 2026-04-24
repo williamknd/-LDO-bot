@@ -1,1 +1,1 @@
-worker: python xrp_bot_bybit.py
+worker: python ldo_bot_bybit.py
