@@ -1,1 +1,1 @@
-worker: python ldo_bot_bybit.py
+SYMBOL = os.environ.get("LDO_SYMBOL", "LDOUSDT")
